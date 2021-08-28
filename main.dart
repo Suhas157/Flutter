@@ -12,7 +12,7 @@ void main() {
             child: Image(
 
               image: NetworkImage('https://cdn.pixabay.com/photo/2015/04/19/08/32/marguerite-729510_960_720.jpg'),
-
+              //image: AssetImage('images/26.jpg'),
             ),
           ),
           appBar:AppBar(
